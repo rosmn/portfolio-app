@@ -1,6 +1,5 @@
 import './App.css';
-import { Button, DatePicker } from 'antd';
-import 'antd/dist/antd.css';
+import { Button } from 'antd';
 
 function App() {
   return (
